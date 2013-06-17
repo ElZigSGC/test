@@ -1,0 +1,21 @@
+<slides>
+	<slide img="rotator1.jpg" link="http://www.google.com" start="20130625" end="20130701">
+		<text lang="fr">
+			<label>Etiquette principale de la diapo 1</label>
+			<sublabel>Du 12 juin au 1 juillet 2013</sublabel>
+		</text>
+    <text lang="en">
+			<label>Slide 1 Label</label>
+			<sublabel>From June 12 to July 1, 2013</sublabel>
+		</text>
+	</slide>
+	<slide img="rotator2.jpg" link="">
+		<text lang="fr">
+			<label>Etiquette diapo 2</label>
+		</text>
+		<text lang="en">
+			<label>Slide 2 Label</label>
+		</text>
+	</slide>
+	<slide img="rotator3.jpg" link=""></slide>
+</slides>
