@@ -1,9 +1,5 @@
 <?php 
-	/*Modification pour test
-		if...
-	*/
-
-	
+	$pcDoc = new DOMDocument();
 	$pcDoc -> load("postescanada.xml");
 
 	$xsltDoc = new DOMDocument();
